@@ -1,0 +1,87 @@
+
+body {
+	margin-top: 0px;
+	margin-left: 0px;
+	width: 100%;
+	height: auto;
+	background: url(../images/bg_img.jpg);
+	background-size: cover;
+}
+
+#main_box_login {
+	width: 25%;
+	height: 400px;
+	margin: 10% 40%;
+	background-color: rgba(255, 255, 255, 0.2);
+	position: absolute;
+}
+
+#main_box_login_2 {
+	width: 25%;
+	height: 400px;
+	margin: 11% 41%;
+	background-color: rgba(250, 250, 250, 0.3);
+	position: absolute;
+}
+
+.input_css {
+	width: 80%;
+	margin-left: 10%;
+	margin-top: 30px;
+	height: 35px;
+	font-family: "楷体";
+	font-size: 20px;
+}
+
+.submit_css {
+	margin-left: 20%;
+	width: 60%;
+	background: #ffff33;
+	font-family: "楷体";
+	font-size: 20px;
+	margin-top: 30px;
+	height: 35px;
+}
+
+.submit_css:hover {
+	background: #ffcc33;
+}
+
+.login_link {
+	width: 110px;
+	float: right;
+	margin-top: 15px;
+}
+
+.login_link a {
+	text-decoration: none;
+	font-family: "楷体";
+	font-size: 15px;
+	color: #33ffcc;
+}
+
+#main_box_login_head {
+	margin-left: 10%;
+	margin-top: 10%;
+	padding-top: 5%;
+	text-align: center;
+	height: 45px;
+	width: 90%;
+	font-family: "微软雅黑";
+	color: #ccff33;
+	font-size: 25px;
+}
+
+.input_code {
+	margin-left: 10%;
+	width: 40%;
+	margin-top: 30px;
+	height: 35px;
+	font-family: "楷体";
+	font-size: 20px;
+	vertical-align: middle;
+}
+#code{
+		vertical-align: middle;
+}
+
